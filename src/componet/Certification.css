@@ -1,0 +1,24 @@
+.cmain{
+    background-color: #dee2e6;
+}
+
+
+.certi{
+   background-color: white;
+    padding: 30px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.cbtn{
+    background-color: orange;
+    width: 120px;
+    padding: 15px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+    color: white;
+}
+.logocerti{
+    height: 50px;
+}

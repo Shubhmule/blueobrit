@@ -1,0 +1,52 @@
+.newdata{
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+    padding: 15px;
+}
+
+.newmain{
+    background-color: whitesmoke;
+}
+
+.data1{
+    border: 1px solid;
+    border-radius: 10px;
+    height: 170px;
+    padding: 20px;
+    background-color: whitesmoke;
+    margin: 15px;
+}
+.data2{
+    border: 1px solid;
+    border-radius: 10px;
+    height: 170px;
+    padding: 20px;
+    background-color: green;
+    color: white;
+    margin: 15px;
+}
+.calender{
+    background-color: white;
+    width: 100px;
+    border: 1px solid green;
+    padding: 7px;
+    border-radius: 20px;
+    color: green;
+    margin: 15px;
+}
+.newbtn{
+    background-color: green;
+    width: 150px;
+    height: 60px;
+    padding: 15px;
+    color: white;
+    margin: 20px;
+    margin-top: 250px;
+    border-radius: 20px;
+    text-align: center;
+}
+.newimg{
+    height: 25px;
+    margin: 5px;
+}

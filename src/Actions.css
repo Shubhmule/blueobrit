@@ -1,0 +1,28 @@
+.action{
+    width: 200vh;
+    height: 40vh;
+    opacity: 0.9;
+    filter: blur(2px);
+    filter: brightness(0.5);
+}
+
+.actiontitle{
+    margin-top: -300px;
+    color: white;
+    position: absolute;
+    z-index: 3;
+    display: flex;
+}
+
+.actioncon{
+    margin-top: -200px;
+    background-color: white; 
+    z-index: 1;
+    position: relative;
+}
+
+.actiondata{
+    padding: 20px;
+    text-align: center;
+    border: 1px solid;
+}

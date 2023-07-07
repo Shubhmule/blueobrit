@@ -1,0 +1,47 @@
+.main{
+    background-color: #dee2e6;
+}
+.pp{
+    background-color: white;
+    border-radius: 20px;
+    height: 30px;
+    width: 20p;
+    margin-top: 8px;
+    text-align: center;
+}
+.allbtn{
+    background-color: green;
+    color:  white;
+    border-radius: 20px;
+}
+
+.due1{
+    display: inline-flex;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.time{
+    text-align: center;
+    width: 200px;
+    margin: 10px;
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+}
+
+.due3{
+    display: inline-flex;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.time1{
+    text-align: center;
+    width: 200px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 10px;
+    color: green;
+}

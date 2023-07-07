@@ -1,0 +1,23 @@
+.district {
+    padding: 20px;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 10px;
+  }
+  
+  .districtbtn {
+    background-color: blue;
+    width: 150px;
+    height: 60px;
+    padding: 15px;
+    color: white;
+    margin: 30px;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 90vh;
+  }
+  
+  
+  .schoolserch{
+      border-radius: 20px;
+  }

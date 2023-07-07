@@ -1,0 +1,84 @@
+.loginbtn {
+  background-color: green;
+  border-radius: 10px;
+  color: white;
+}
+.ul li::after{
+  content: '';
+  height: 3px;
+  width: 0;
+  background: #009688;
+  position: absolute;
+  left: 0;
+  bottom: -10px;
+  transition: 0.5s;
+}
+.ul li:hover::after{
+  width: 100%;
+}
+
+.ul {
+  list-style: none;
+  display: flex;
+  margin: 10px;
+  float: right;
+}
+
+.ul li {
+  padding: 20px;
+}
+
+.logo {
+  margin: 30px;
+  height: 200px;
+}
+
+.head {
+  margin-top: -40px;
+}
+
+.cards {
+  height: 150px;
+
+  margin: 10px;
+  border: 1px solid;
+  border-radius: 20px;
+}
+
+.searchbox {
+  margin-top: 20px;
+  width: 300px;
+  border-radius: 30px;
+}
+
+.yellow {
+  background-color: yellow;
+}
+.purple {
+  background-color: blueviolet;
+  
+}
+
+.orange {
+  background-color: orange;
+}
+.blue {
+  background-color: rgb(62, 93, 230);
+}
+.red {
+  background-color: red;
+}
+.green {
+  background-color: green;
+}
+
+.logoround{
+  border-radius: 39rem;
+    width: 90px;
+    height: 5rem;
+    margin: 15px;
+}
+.dummytext{
+  text-align: center;
+  color: white;
+}
